@@ -5,11 +5,11 @@
 １、"windows key(スタートボタン) + r"を同時に押し、出てきたウィンドウに"cmd"と入力、enterを押下します。<br>
 ２、"cd Desktop"と入力し、enterを押下します。<br>
 ３、<br>
- 全角の場合<br>
-    "java DummyData 8000"<br>
- 半角の場合<br>
-    "java DummyData_hankaku 8000"<br>
- と入力し、enterを押下します。<br>
+　　全角の場合<br>
+  　　　"java DummyData 8000"<br>
+　　半角の場合<br>
+　　　　"java DummyData_hankaku 8000"<br>
+　　と入力し、enterを押下します。<br>
 ４、"dummy_data.txt"と名前の付いたファイルが出力されるので、そこからコピペで使用してください。<br>
 <br><br>
 
