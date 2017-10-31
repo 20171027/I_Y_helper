@@ -6,7 +6,7 @@
 ２、"cd Desktop"と入力し、enterを押下します。<br>
 ３、<br>
 　　全角の場合<br>
-  　　　"java DummyData 8000"<br>
+　　　　"java DummyData 8000"<br>
 　　半角の場合<br>
 　　　　"java DummyData_hankaku 8000"<br>
 　　と入力し、enterを押下します。<br>
